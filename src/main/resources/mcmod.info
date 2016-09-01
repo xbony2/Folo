@@ -1,0 +1,16 @@
+[
+{
+  "modid": "folo",
+  "name": "Folo",
+  "description": "Golo for Forge.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Xbony2"],
+  "credits": "Xbony2, Golo/Eclipse Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
